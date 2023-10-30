@@ -1,4 +1,4 @@
-package com.basics;
+package com.learn;
 
 public class TypeCasting {
     public static void main(String[] args) {
